@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TagGame",
+			"Path": "..\\Source\\TagGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TagGameEditor",
+			"Path": "..\\Source\\TagGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

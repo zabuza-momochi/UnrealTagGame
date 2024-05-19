@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\taggamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
+            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\source\\taggame\\taggamegamemode.h",
+            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\source\\taggame\\ball.h",
+            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\ball.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\targetpoint.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\targetpoint.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\taggamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
