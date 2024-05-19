@@ -1,4 +1,4 @@
-# AIV_projects
+# Unreal_TagGame
 AIV project made during the last year of AIV programming course (3° year), developed in Unreal Engine 5.3 using C++ language to create custom classes and optimize low-level programming skills. 
 The goal of the project is to create a simple AI controlled by c++ base class.
 
