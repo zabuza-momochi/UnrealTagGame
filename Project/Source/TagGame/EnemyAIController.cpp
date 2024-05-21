@@ -2,6 +2,7 @@
 
 
 #include "EnemyAIController.h"
+#include "Navigation/CrowdFollowingComponent.h"
 #include "BehaviorTree/BlackBoardComponent.h"
 #include "Navigation/PathFollowingComponent.h"
 
@@ -38,18 +39,21 @@ void AEnemyAIController::ResetEnemy()
 				return nullptr;
 			}
 
-			if (GetActorFromBB("BestBall") && State == EPathFollowingStatus::Idle)
+			if (GetActorFromBB("BestBall"))
 			{
-				if (FVector::Distance(GetActorFromBB("Player")->GetActorLocation(), GetPawn()->GetActorLocation()) < 200.0f)
+				if (FVector::Distance(GetActorFromBB("Player")->GetActorLocation(), GetPawn()->GetActorLocation()) < 150.0f)
 				{
 					GetActorFromBB("BestBall")->AttachToActor(AIController->GetWorld()->GetFirstPlayerController()->GetPawn(), FAttachmentTransformRules::KeepRelativeTransform);
 					GetActorFromBB("BestBall")->SetActorRelativeLocation(FVector::ZeroVector);
 					GetBlackboardComponent()->ClearValue("BestBall");
+
+					TagGameMode->SetCounter();
 				}
 
-				TagGameMode->SetCounter();
+				CurrentState->CallEnter(this);
+				return nullptr;
 			}
-
+			
 			return SearchForBall;
 		}
 	);
@@ -155,3 +159,7 @@ AActor* AEnemyAIController::GetActorFromBB(const FString Name) const
 	return Cast<AActor>(GetBlackboardComponent()->GetValueAsObject(*Name));
 }
 
+AEnemyAIController::AEnemyAIController(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer.SetDefaultSubobjectClass<UCrowdFollowingComponent>(TEXT("PathFollowingComponent")))
+{
+	Cast<UCrowdFollowingComponent>(GetPathFollowingComponent())->SetCrowdAvoidanceQuality(ECrowdAvoidanceQuality::High);
+}

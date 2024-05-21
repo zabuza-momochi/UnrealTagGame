@@ -1,11 +1,11 @@
-"E:\Study\AIV\III_Anno\Develop\C++\TagGame\Source\TagGame\TagGameCharacter.cpp"
-/FI"E:\Study\AIV\III_Anno\Develop\C++\TagGame\Intermediate\Build\Win64\x64\TagGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/FI"E:\Study\AIV\III_Anno\Develop\C++\TagGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TagGame\Definitions.TagGame.h"
-/Yu"E:\Study\AIV\III_Anno\Develop\C++\TagGame\Intermediate\Build\Win64\x64\TagGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/Fp"E:\Study\AIV\III_Anno\Develop\C++\TagGame\Intermediate\Build\Win64\x64\TagGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
-/Fo"E:\Study\AIV\III_Anno\Develop\C++\TagGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TagGame\TagGameCharacter.cpp.obj"
-/sourceDependencies "E:\Study\AIV\III_Anno\Develop\C++\TagGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TagGame\TagGameCharacter.cpp.dep.json"
-@"E:\Study\AIV\III_Anno\Develop\C++\TagGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TagGame\TagGame.Shared.rsp"
+"E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Source\TagGame\TagGameCharacter.cpp"
+/FI"E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Intermediate\Build\Win64\x64\TagGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/FI"E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\TagGame\Definitions.TagGame.h"
+/Yu"E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Intermediate\Build\Win64\x64\TagGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/Fp"E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Intermediate\Build\Win64\x64\TagGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
+/Fo"E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\TagGame\TagGameCharacter.cpp.obj"
+/sourceDependencies "E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\TagGame\TagGameCharacter.cpp.dep.json"
+@"E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\TagGame\TagGame.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

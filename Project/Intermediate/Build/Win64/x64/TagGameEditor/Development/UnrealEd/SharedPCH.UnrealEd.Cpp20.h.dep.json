@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.cpp",
+        "Source": "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h",
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\shareddefinitions.unrealed.cpp20.h",
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h",
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\shareddefinitions.unrealed.cpp20.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\editor\\unrealed\\public\\unrealedsharedpch.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\slate\\public\\slatesharedpch.h",

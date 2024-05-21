@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\source\\taggame\\ball.cpp",
+        "Source": "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\source\\taggame\\ball.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\source\\taggame\\ball.h",
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\ball.generated.h"
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\source\\taggame\\ball.h",
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\ball.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\source\\taggame\\taggame.cpp",
+        "Source": "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\source\\taggame\\taggame.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\source\\taggame\\taggame.h"
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\source\\taggame\\taggame.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

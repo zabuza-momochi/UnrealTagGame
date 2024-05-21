@@ -259,8 +259,8 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT"
 /I "Runtime\AIModule\Classes"
 /I "Runtime\AIModule\Public"
-/I "E:\Study\AIV\III_Anno\Develop\C++\TagGame\Intermediate\Build\Win64\UnrealEditor\Inc\TagGame\UHT"
-/I "E:\Study\AIV\III_Anno\Develop\C++\TagGame\Source"
+/I "E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Intermediate\Build\Win64\UnrealEditor\Inc\TagGame\UHT"
+/I "E:\Study\AIV\III_Anno\Progetti\UnrealTagGame\Project\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0

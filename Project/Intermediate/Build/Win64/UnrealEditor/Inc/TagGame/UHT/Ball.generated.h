@@ -14,12 +14,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TAGGAME_Ball_generated_h
 
-#define FID_TagGame_Source_TagGame_Ball_h_12_SPARSE_DATA
-#define FID_TagGame_Source_TagGame_Ball_h_12_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_TagGame_Source_TagGame_Ball_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_TagGame_Source_TagGame_Ball_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_TagGame_Source_TagGame_Ball_h_12_ACCESSORS
-#define FID_TagGame_Source_TagGame_Ball_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Project_Source_TagGame_Ball_h_12_SPARSE_DATA
+#define FID_Project_Source_TagGame_Ball_h_12_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Project_Source_TagGame_Ball_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Project_Source_TagGame_Ball_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Project_Source_TagGame_Ball_h_12_ACCESSORS
+#define FID_Project_Source_TagGame_Ball_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABall(); \
 	friend struct Z_Construct_UClass_ABall_Statics; \
@@ -28,7 +28,7 @@ public: \
 	DECLARE_SERIALIZER(ABall)
 
 
-#define FID_TagGame_Source_TagGame_Ball_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Project_Source_TagGame_Ball_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ABall(ABall&&); \
@@ -40,17 +40,17 @@ public: \
 	NO_API virtual ~ABall();
 
 
-#define FID_TagGame_Source_TagGame_Ball_h_9_PROLOG
-#define FID_TagGame_Source_TagGame_Ball_h_12_GENERATED_BODY \
+#define FID_Project_Source_TagGame_Ball_h_9_PROLOG
+#define FID_Project_Source_TagGame_Ball_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_TagGame_Source_TagGame_Ball_h_12_SPARSE_DATA \
-	FID_TagGame_Source_TagGame_Ball_h_12_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_TagGame_Source_TagGame_Ball_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_TagGame_Source_TagGame_Ball_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_TagGame_Source_TagGame_Ball_h_12_ACCESSORS \
-	FID_TagGame_Source_TagGame_Ball_h_12_INCLASS_NO_PURE_DECLS \
-	FID_TagGame_Source_TagGame_Ball_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Project_Source_TagGame_Ball_h_12_SPARSE_DATA \
+	FID_Project_Source_TagGame_Ball_h_12_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Project_Source_TagGame_Ball_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Project_Source_TagGame_Ball_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Project_Source_TagGame_Ball_h_12_ACCESSORS \
+	FID_Project_Source_TagGame_Ball_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Project_Source_TagGame_Ball_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -58,7 +58,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> TAGGAME_API UClass* StaticClass<class ABall>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_TagGame_Source_TagGame_Ball_h
+#define CURRENT_FILE_ID FID_Project_Source_TagGame_Ball_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

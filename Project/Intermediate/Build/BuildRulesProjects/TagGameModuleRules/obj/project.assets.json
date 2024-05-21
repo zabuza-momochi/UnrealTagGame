@@ -8069,11 +8069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\AIV\\III_Anno\\Develop\\C++\\TagGame\\Intermediate\\Build\\BuildRulesProjects\\TagGameModuleRules\\TagGameModuleRules.csproj",
+      "projectUniqueName": "E:\\Study\\AIV\\III_Anno\\Progetti\\UnrealTagGame\\Project\\Intermediate\\Build\\BuildRulesProjects\\TagGameModuleRules\\TagGameModuleRules.csproj",
       "projectName": "TagGameModuleRules",
-      "projectPath": "E:\\Study\\AIV\\III_Anno\\Develop\\C++\\TagGame\\Intermediate\\Build\\BuildRulesProjects\\TagGameModuleRules\\TagGameModuleRules.csproj",
+      "projectPath": "E:\\Study\\AIV\\III_Anno\\Progetti\\UnrealTagGame\\Project\\Intermediate\\Build\\BuildRulesProjects\\TagGameModuleRules\\TagGameModuleRules.csproj",
       "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\AIV\\III_Anno\\Develop\\C++\\TagGame\\Intermediate\\Build\\BuildRulesProjects\\TagGameModuleRules\\obj\\",
+      "outputPath": "E:\\Study\\AIV\\III_Anno\\Progetti\\UnrealTagGame\\Project\\Intermediate\\Build\\BuildRulesProjects\\TagGameModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",

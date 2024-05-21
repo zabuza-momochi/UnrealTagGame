@@ -41,6 +41,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemyAIController() {}
 		{ "HideCategories", "Collision Rendering Transformation" },
 		{ "IncludePath", "EnemyAIController.h" },
 		{ "ModuleRelativePath", "EnemyAIController.h" },
+		{ "ObjectInitializerConstructorDeclared", "" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AEnemyAIController_Statics::StaticCppClassTypeInfo = {
@@ -73,18 +74,17 @@ void EmptyLinkFunctionForGeneratedCodeEnemyAIController() {}
 	{
 		return AEnemyAIController::StaticClass();
 	}
-	AEnemyAIController::AEnemyAIController(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AEnemyAIController);
 	AEnemyAIController::~AEnemyAIController() {}
-	struct Z_CompiledInDeferFile_FID_TagGame_Source_TagGame_EnemyAIController_h_Statics
+	struct Z_CompiledInDeferFile_FID_Project_Source_TagGame_EnemyAIController_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TagGame_Source_TagGame_EnemyAIController_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AEnemyAIController, AEnemyAIController::StaticClass, TEXT("AEnemyAIController"), &Z_Registration_Info_UClass_AEnemyAIController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemyAIController), 3062676763U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_Source_TagGame_EnemyAIController_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AEnemyAIController, AEnemyAIController::StaticClass, TEXT("AEnemyAIController"), &Z_Registration_Info_UClass_AEnemyAIController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemyAIController), 1995196152U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TagGame_Source_TagGame_EnemyAIController_h_433556966(TEXT("/Script/TagGame"),
-		Z_CompiledInDeferFile_FID_TagGame_Source_TagGame_EnemyAIController_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_TagGame_Source_TagGame_EnemyAIController_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_Source_TagGame_EnemyAIController_h_161789404(TEXT("/Script/TagGame"),
+		Z_CompiledInDeferFile_FID_Project_Source_TagGame_EnemyAIController_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_Source_TagGame_EnemyAIController_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

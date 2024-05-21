@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeTagGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xDDC70CA6,
+				0xFB93CBAD,
 				0xA34DFD5F,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeTagGame_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_TagGame.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TagGame(Z_Construct_UPackage__Script_TagGame, TEXT("/Script/TagGame"), Z_Registration_Info_UPackage__Script_TagGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xDDC70CA6, 0xA34DFD5F));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TagGame(Z_Construct_UPackage__Script_TagGame, TEXT("/Script/TagGame"), Z_Registration_Info_UPackage__Script_TagGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xFB93CBAD, 0xA34DFD5F));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

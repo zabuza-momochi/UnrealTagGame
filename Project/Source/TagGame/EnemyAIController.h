@@ -72,7 +72,7 @@ UCLASS()
 class TAGGAME_API AEnemyAIController : public AAIController
 {
 	GENERATED_BODY()
-	
+
 protected:
 	TSharedPtr<FAIVState> CurrentState;
 	TSharedPtr<FAIVState> GoToPlayer;
@@ -87,4 +87,7 @@ public:
 
 	AActor* GetActorFromBB(const FString Name) const;
 	ATagGameGameMode* TagGameMode;
+
+	AEnemyAIController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get());
+
 };

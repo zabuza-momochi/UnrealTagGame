@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\source\\taggame\\taggamecharacter.cpp",
+        "Source": "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\source\\taggame\\taggamecharacter.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\source\\taggame\\taggamecharacter.h",
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\source\\taggame\\taggamecharacter.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
@@ -15,7 +15,7 @@
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "e:\\study\\aiv\\iii_anno\\develop\\c++\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\taggamecharacter.generated.h",
+            "e:\\study\\aiv\\iii_anno\\progetti\\unrealtaggame\\project\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\taggamecharacter.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",

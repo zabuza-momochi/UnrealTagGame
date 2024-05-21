@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4w0TmWhk14WXGWNKfSLE4PEO3buOroOK0fPvDqLoVdj/kkY4fA9oJhM6zM5yh/MiwdKYJuFFt/N+z+99GcXlUA==",
+  "dgSpecHash": "Xy4ZnEG4CJ8xO9xmuguj9GUt2eYmOLXmn48wZcy8QLAkojePQ3PpZ3Q3H4FvQgxOxd934DUlDh5pwzas8D8ldw==",
   "success": true,
-  "projectFilePath": "E:\\Study\\AIV\\III_Anno\\Develop\\C++\\TagGame\\Intermediate\\Build\\BuildRulesProjects\\TagGameModuleRules\\TagGameModuleRules.csproj",
+  "projectFilePath": "E:\\Study\\AIV\\III_Anno\\Progetti\\UnrealTagGame\\Project\\Intermediate\\Build\\BuildRulesProjects\\TagGameModuleRules\\TagGameModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frank\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\frank\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
