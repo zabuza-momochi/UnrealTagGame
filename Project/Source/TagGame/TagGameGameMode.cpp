@@ -66,7 +66,7 @@ void ATagGameGameMode::SetCounter()
 	}
 }
 
-const int32& ATagGameGameMode::GetCounter() const
+const int32 ATagGameGameMode::GetCounter() const
 {
 	return BallCounter;
 }

@@ -26,7 +26,7 @@ public:
 	void ResetMatch();
 	void SetCounter();
 
-	const int32& GetCounter() const;
+	const int32 GetCounter() const;
 	const TArray<ABall*>& GetBalls() const;
 };
 
